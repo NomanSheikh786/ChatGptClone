@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "999728533913",
+    "project_id": "chatgptclone-f4dfd",
+    "storage_bucket": "chatgptclone-f4dfd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999728533913:android:35ceb29c42717387e24308",
+        "android_client_info": {
+          "package_name": "com.chatgptclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-zU2HqyP8QWif9DnnCANA-nwSvpKdfyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
